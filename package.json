@@ -1,0 +1,24 @@
+{
+	"name": "dongles",
+	"version": "0.0.1",
+	"description": "Snippets",
+	"main": "src/main.js",
+	"scripts": {
+		"start": "node src/main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrAmericanMike/dongles.git"
+	},
+	"author": "MrAmericanMike",
+	"license": "MIT",
+	"keywords": [
+		"dongles",
+		"snippets",
+		"javascript"
+	],
+	"bugs": {
+		"url": "https://github.com/MrAmericanMike/dongles/issues"
+	},
+	"homepage": "https://github.com/MrAmericanMike/dongles#readme"
+}
