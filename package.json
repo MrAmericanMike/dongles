@@ -4,7 +4,11 @@
 	"description": "Snippets",
 	"main": "src/main.js",
 	"scripts": {
-		"start": "node src/main.js"
+		"start": "node src/main.js",
+		"vite": "vite serve"
+	},
+	"dependencies": {
+		"vite": "^2.9.1"
 	},
 	"repository": {
 		"type": "git",
