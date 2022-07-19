@@ -5,10 +5,10 @@
 	"main": "src/main.js",
 	"scripts": {
 		"start": "node src/main.js",
-		"vite": "vite serve"
+		"dev": "vite serve"
 	},
 	"dependencies": {
-		"vite": "^2.9.1"
+		"vite": "^3.0.2"
 	},
 	"repository": {
 		"type": "git",
